@@ -153,7 +153,7 @@ $(function () {
 
         $.ajax({
             type: "POST",
-            url: "https://formspree.io/info@vanquoc.com",
+            url: "https://formspree.io/f/info@vanquoc.com",
             data: dataString
         });
 		
