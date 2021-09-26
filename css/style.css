@@ -344,48 +344,48 @@ h2 {
 	top: -12px;
 	width: 75px;
 }
-.html5 {
+.dotnet {
 	height: 160px;
 	margin-left: -9px;
 	width: 110px;
 }
-.html5:hover {
+.dotnet:hover {
 	background-position: left bottom;
 }
-.jquery {
+.sqlserver {
 	background-position: -193px 0;
 	height: 160px;
 	margin-right: 63px;
 	width: 117px;
 }
-.jquery:hover {
+.sqlserver:hover {
 	background-position: -193px bottom;
 }
-.css3 {
+.android {
 	background-position: -374px 0;
 	height: 160px;
 	margin-right: 101px;
 	width: 117px;
 }
-.css3:hover {
+.android:hover {
 	background-position: -374px bottom;
 }
-.dotnet {
+.csharp {
 	background-position: -592px 0;
 	height: 160px;
 	margin-right: 73px;
 	width: 134px;
 }
-.dotnet:hover {
+.csharp:hover {
 	background-position: -592px bottom;
 }
-.adobe {
+.git {
 	background-position: -799px 0;
 	height: 160px;
 	width: 100px;
 	margin: 0 !important;
 }
-.adobe:hover {
+.git:hover {
 	background-position: -799px bottom;
 }
 
