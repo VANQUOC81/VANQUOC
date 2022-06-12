@@ -3,7 +3,7 @@
  * 		   www.vanquoc.com
  */
 (function($){
-      
+    
     // defines various easing effects
     $.easing['jswing'] = $.easing['swing'];
     $.extend( $.easing,
