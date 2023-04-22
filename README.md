@@ -1,4 +1,4 @@
-# VANQUOC's Website
+# VANQUOC's Version 1.0 Website
 Welcome to my personal website, http://www.vanquoc.com/. This website showcases my portfolio, skills, and contact information.
 
 ## Technologies Used
